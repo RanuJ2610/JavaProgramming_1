@@ -17,6 +17,7 @@ public class PhoneNumberSearch {
            Map.entry("ysl", new String [] {"name: ysl", "phoneNo : 6785688488"}),
            Map.entry("zae", new String [] {"name: zae", "phoneNo : 8323242426"})
    ));
+
    public static void main(String[] args) {
       if (args.length > 0) {
          String s = args[0];
